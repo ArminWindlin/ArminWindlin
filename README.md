@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Armin, nice to meet you.
+
+Portfolio: 
+[arminwindlin.github.io](https://arminwindlin.github.io)
+
+My favorite side project:
+[riseintime.com](https://riseintime.com)
+
 <!--
 **ArminWindlin/ArminWindlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
