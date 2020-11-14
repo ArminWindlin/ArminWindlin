@@ -2,12 +2,10 @@
 
 I'm Armin, nice to meet you.
 
-Portfolio: 
-
+Portfolio:  
 [arminwindlin.github.io](https://arminwindlin.github.io)
 
-My favorite side project:
-
+My favorite side project:  
 [riseintime.com](https://riseintime.com)
 
 <!--
