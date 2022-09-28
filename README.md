@@ -2,11 +2,14 @@
 
 I'm Armin, nice to meet you.
 
+My favorite side projects:  
+[riseintime.com](https://riseintime.com)
+[geili-sach.ch](https://riseintime.com)
+
 Portfolio:  
 [arminwindlin.github.io](https://arminwindlin.github.io)
-
-My favorite side project:  
-[riseintime.com](https://riseintime.com)
+[arminwindlin.rocks](https://armin.rocks)
+[LinkedIn]([https://armin.rocks](https://www.linkedin.com/in/armin-windlin-a59994166/))
 
 <!--
 **ArminWindlin/ArminWindlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
