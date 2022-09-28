@@ -8,7 +8,9 @@ My favorite side projects:
 
 Portfolio:  
 [arminwindlin.github.io](https://arminwindlin.github.io)
+
 [arminwindlin.rocks](https://armin.rocks)
+
 [LinkedIn](https://www.linkedin.com/in/armin-windlin-a59994166/)
 
 <!--
