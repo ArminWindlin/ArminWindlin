@@ -8,10 +8,8 @@ My favorite side projects:
 
 Portfolio:  
 [arminwindlin.github.io](https://arminwindlin.github.io)
-
 [arminwindlin.rocks](https://armin.rocks)
-
-[LinkedIn]([https://armin.rocks](https://www.linkedin.com/in/armin-windlin-a59994166/))
+[LinkedIn](https://www.linkedin.com/in/armin-windlin-a59994166/)
 
 <!--
 **ArminWindlin/ArminWindlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
