@@ -4,7 +4,8 @@ I'm Armin, nice to meet you.
 
 My favorite side projects:  
 [riseintime.com](https://riseintime.com)
-[geili-sach.ch](https://riseintime.com)
+
+[winlo.ch](https://winlo.ch)
 
 Portfolio:  
 [arminwindlin.github.io](https://arminwindlin.github.io)
