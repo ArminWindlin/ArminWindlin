@@ -8,6 +8,8 @@ My favorite side projects:
 [winlo.ch](https://winlo.ch)
 
 Portfolio:  
+[arminwindlin.com](https://arminwindlin.com)
+
 [arminwindlin.github.io](https://arminwindlin.github.io)
 
 [LinkedIn](https://www.linkedin.com/in/armin-windlin-a59994166/)
