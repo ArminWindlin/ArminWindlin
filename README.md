@@ -5,7 +5,7 @@ I'm Armin, nice to meet you.
 My favorite side projects:  
 [riseintime.com](https://riseintime.com)
 
-[winlo.ch](https://winlo.ch)
+[custompokercards.com](https://www.custompokercards.com/)
 
 Portfolio:  
 [arminwindlin.com](https://arminwindlin.com)
